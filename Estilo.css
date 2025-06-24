@@ -35,7 +35,6 @@
 
 .paises {
     width: 300px;
-
 }
 
 .tabela {
@@ -51,6 +50,6 @@ a {
     transition: color 0.3s; /* Transição suave na troca de cor */
 }
 
-    a:hover {
+a:hover {
     color: red; /* Cor quando o mouse está sobre o link */
 }
